@@ -2,10 +2,10 @@
 Repositorio curso Data Science para Unilever
 
 ## Link de las clases grabadas
-https://drive.google.com/drive/folders/1bjbMWQikQuC0SaZ5t_QZrM_bD80znIyV?usp=sharing 
+https://drive.google.com/drive/folders/1YkKNlWhkjVH6LU2GEUpKJ7HqiE6-zdhh?usp=sharing
 
 ## Calendario
-https://docs.google.com/spreadsheets/d/1SmnR3WEfGtzALsan7dwhDkFLhgDRKuEI6_LbgUpeZfw/edit#gid=0
+https://docs.google.com/spreadsheets/d/1ypPcrN_vDQ_RFMyQDdhpCe9fq28gOSfoI6608ET-YII/edit#gid=0
 
 ## Carpeta compartida para subir codigos
-https://drive.google.com/drive/folders/1wRrkm6Pan20D2nCacjhrk1eQZecNn_k0?usp=sharing
+https://drive.google.com/drive/folders/1aIgjsuohEKpFA0s_0WRTSaeQa4xJ9blB?usp=sharing
