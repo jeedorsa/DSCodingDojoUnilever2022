@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1YkKNlWhkjVH6LU2GEUpKJ7HqiE6-zdhh?usp=sha
 https://docs.google.com/spreadsheets/d/1ypPcrN_vDQ_RFMyQDdhpCe9fq28gOSfoI6608ET-YII/edit#gid=0
 
 ## Carpeta compartida para subir codigos
-https://drive.google.com/drive/folders/1aIgjsuohEKpFA0s_0WRTSaeQa4xJ9blB?usp=sharing
+[https://drive.google.com/drive/folders/1aIgjsuohEKpFA0s_0WRTSaeQa4xJ9blB?usp=sharing](https://drive.google.com/drive/folders/1UyWcegMJhE_hQcngU9mG1roNnkggCe_3?usp=drive_link)https://drive.google.com/drive/folders/1UyWcegMJhE_hQcngU9mG1roNnkggCe_3?usp=drive_link
 
 ## Libros de complemento y valor agregado
 
